@@ -24,12 +24,12 @@
 3. 保存后即可访问
 
 **访问链接**:
-- 给世界的礼物-泰国: https://linjinyu327327-code.github.io/jiangge-de-li-wu-he-ji/给世界的礼物-泰国/
-- 命与苦海: https://linjinyu327327-code.github.io/jiangge-de-li-wu-he-ji/命与苦海/
+- 给世界的礼物-泰国: https://timlin7.github.io/jiangge-de-li-wu-he-ji/给世界的礼物-泰国/
+- 命与苦海: https://timlin7.github.io/jiangge-de-li-wu-he-ji/命与苦海/
 
 **文件直链** (无需Pages):
-- [给世界的礼物-泰国](https://raw.githubusercontent.com/linjinyu327327-code/jiangge-de-li-wu-he-ji/main/给世界的礼物-泰国/index.html)
-- [命与苦海](https://raw.githubusercontent.com/linjinyu327327-code/jiangge-de-li-wu-he-ji/main/命与苦海/index.html)
+- [给世界的礼物-泰国](https://raw.githubusercontent.com/TimLin7/jiangge-de-li-wu-he-ji/main/给世界的礼物-泰国/index.html)
+- [命与苦海](https://raw.githubusercontent.com/TimLin7/jiangge-de-li-wu-he-ji/main/命与苦海/index.html)
 
 ## 技术特点
 
